@@ -20,3 +20,5 @@ curves.py:
   1) curves.py is a program to display lissajous curve table.
   2) By setting the "no_of_circles" variable in side the program you can set the no of circles in row and column.
 
+tictac.py:
+  1) tictac.py is a simple tictactoe game made using python pygame.
